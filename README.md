@@ -1,2 +1,2 @@
 # searchingAlgorithms
-Searching algorithm functions written in Matlab
+Searching algorithms functions written in Matlab for an assignment in Data Structures and Algorithms
